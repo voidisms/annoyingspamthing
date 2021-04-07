@@ -2,7 +2,7 @@ from pynput.keyboard import Key, Controller
 import time
 
 
-message = "nova is awesome!"
+message = "Spam message"
 keyboard = Controller()
 
 time.sleep(5)
