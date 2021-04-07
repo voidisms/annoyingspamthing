@@ -1,7 +1,7 @@
 from pynput.keyboard import Key, Controller
 import time
 
-
+#Can also work for other stuff, this was only inteded for WhatsApp but it can work for anything really
 message = "Spam message"
 keyboard = Controller()
 
